@@ -1,13 +1,13 @@
 <img src="https://github.com/Abiha511/Abiha511/blob/main/Banner.png" alt="profile banner">
 <h1 align="center">Hi 👋, I'm Abiha Naqvi</h1>
-<h3 align="center">A fresher who is eager to learn and upskill</h3>
+<h3 align="center">A sophomore who is eager to learn and upskill</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **flutter and web development**
 
 - 📫 How to reach me **abihanaqvi511@gmail.com**
 
-- ⚡ Fun fact **it's all is 0's and 1's**
+- ⚡ Fun fact **it's all in 0's and 1's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
